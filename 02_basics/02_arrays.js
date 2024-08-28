@@ -24,7 +24,7 @@ const arr =[1,2,3,4,[5,6,[7,8[9,10]]]]
 const flatAllArrays =arr.flat(Infinity)
 console.log(flatAllArrays)
 // [ 1, 2, 3, 4, 5, 6, 7, undefined ]
-/* in order to make it singel readable array we have to use .flat with array
+/* in order to make it single readable array we have to use .flat with array
 it will flaten the array within a single array even if it is nested so many times */  
 
 
