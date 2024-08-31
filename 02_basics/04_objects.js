@@ -77,16 +77,16 @@ console.log(course.hasOwnProperty("courseFee"))
 can be in an araay  like 2nd example
 */
 // Ist example
-{
+// {
 
-    "name":"Abid",
-     "Age":28,
-     "parentage":"Naseer"
-}
+//     "name":"Abid",
+//      "Age":28,
+//      "parentage":"Naseer"
+// }
 
 // 2nd example
-[
-  {},
-  {},
-  {}
-]
+// [
+//   {},
+//   {},
+//   {}
+// ]
